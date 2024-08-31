@@ -824,3 +824,26 @@ color: var(--text-color);
 
 
 }
+
+
+.bx {
+
+
+    font-size: 24px;
+
+    
+
+}
+
+
+.experience__data {
+
+    margin-bottom: 20px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color:var(--text-color);
+  }
