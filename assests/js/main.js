@@ -150,7 +150,7 @@ let opt = {
   filename:     'CV_HECTOR_ROJAS.pdf',
   image:        { type: 'jpeg', quality: 0.98 },
   html2canvas:  { scale: 1 },
-  jsPDF:        {  format: 'a4', orientation: 'landscape' }
+  jsPDF:        {  format: 'a4', orientation: 'p' }
 };
 
 
